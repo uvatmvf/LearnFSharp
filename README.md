@@ -1,2 +1,2 @@
 # LearnFSharp
-Picking up the basic tools of F#
+Learning the ropes of F#
