@@ -1,2 +1,2 @@
 # LearnFSharp
-Learning the ropes of F# to understand how to convert F# library to C#.
+Learning the ropes of F# and functional programming. 
